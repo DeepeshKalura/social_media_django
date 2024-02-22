@@ -1,0 +1,4 @@
+# Virtual Environment
+.venv
+# Server Python Cache
+__pycache__
